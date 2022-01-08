@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Unity3D%20Developer&fontAlign=85&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Unity3D%20Developer&fontAlign=78&fontAlignY=30&fontSize=40&color=auto)
 
 
 ![](https://komarev.com/ghpvc/?username=ka3u6y6a&color=lightgrey&style=flat)
