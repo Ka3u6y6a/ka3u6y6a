@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
 <!--
 **Ka3u6y6a/ka3u6y6a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
